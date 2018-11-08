@@ -10,7 +10,7 @@ using System.Windows.Input;
 
 namespace Try_Code
 {
-    public class Try_Code
+    public class Try
     {
         //для ввода только чисел
         public static void PutTextNumbers(object sender, TextCompositionEventArgs e)
